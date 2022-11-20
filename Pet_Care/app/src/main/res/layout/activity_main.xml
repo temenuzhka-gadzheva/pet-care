@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:background="#E0E1E3"
+        app:srcCompat="@drawable/vetlogo" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editName"
+        android:hint="Name"
+        android:inputType="textPersonName"></EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editPhone"
+        android:hint="Phone"
+        android:inputType="phone"></EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editNameOfTheAnimal"
+        android:hint="Name of the animal"
+        android:inputType="text"></EditText>
+
+    <Button
+        android:id="@+id/btnInsert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add vet"></Button>
+
+    <!-- doctors numbers -->
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:background="#ECEDED"
+        android:minHeight="300dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="246dp"
+        android:background="#EBECEC"
+        app:srcCompat="@drawable/cats" />
+
+    <Button
+        android:id="@+id/catsInformation"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="Cat Information" />
+
+</LinearLayout>
