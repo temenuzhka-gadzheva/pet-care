@@ -10,7 +10,7 @@ This feature provides a streamlined and organized method for pet owners to manag
 This feature serves as an engaging resource for cat owners, offering insights into cat behavior, health, and care.
 It's designed to be both informative and entertaining, enhancing the knowledge and understanding of cat enthusiasts.
 
-3.Communication Feature - Direct Messaging with Vets:
+3. Communication Feature - Direct Messaging with Vets:
   A key functionality of the app is the ability to send messages directly to saved veterinarians.
 This feature simplifies making appointments, seeking veterinary advice, and addressing pet health emergencies.
 It fosters a direct and efficient line of communication between pet owners and their veterinarians.
